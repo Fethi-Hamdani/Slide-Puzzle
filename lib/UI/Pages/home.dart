@@ -42,11 +42,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
           statusBarIconBrightness: Brightness.dark),
       child: Scaffold(
           resizeToAvoidBottomInset: false,
-          floatingActionButton: FloatingActionButton(onPressed: () async {
-            PuzzleDialog().gameInstructions(
-              context: context,
-            );
-          }),
+         
           body: AnimatedBackground(
             behaviour: RandomParticleBehaviour(
                 options: const ParticleOptions(
@@ -268,7 +264,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           Flexible(
-              flex: 2,
+              flex: 1,
               child:
                   Consumer<BoardController>(builder: (context, value, child) {
                 return Center(
