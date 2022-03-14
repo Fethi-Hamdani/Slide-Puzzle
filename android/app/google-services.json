@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696374154522",
+    "project_id": "slide-puzzle-5228c",
+    "storage_bucket": "slide-puzzle-5228c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696374154522:android:abebad06e79eb47a1e48a3",
+        "android_client_info": {
+          "package_name": "hamdani.fethi.slidepuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696374154522-38v9ja99kc14v0r3sf1b2otad7i78tmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSmrIPquDbwlA9VXKN3IovGilrD59hd-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696374154522-38v9ja99kc14v0r3sf1b2otad7i78tmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

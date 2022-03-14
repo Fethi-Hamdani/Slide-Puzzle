@@ -1,0 +1,94 @@
+Standout:
+    ✘ calculate finish progress @cancelled (2/16/2022, 9:47:25 AM)
+    ☐ auto resolve (AI)
+    ✔ import and solve an image @done (2/9/2022, 6:59:23 PM)
+    ✘ multiplayer using firebase @cancelled (2/16/2022, 9:47:22 AM)
+    ✔ switch tiles @done (2/16/2022, 9:47:27 AM)
+    ✔ highlight correct tiles when clicking (number of correct tiles or tiles left to solve) @done (2/16/2022, 9:47:30 AM)
+    ☐ add dialog at start to explain all functionalities
+    ☐ on number of tiles clicked highlight the correct tiles
+    ☐ on puzzle solved show a preview of all the moves made by the user (slider for moves )
+
+Stages:
+    Casual:
+        ☐ simple slideing
+    advanced:
+        ☐ image chosing 
+    Madness:
+        ☐ diagonal color stripess
+    ☐ Time Laps (must finish the game before the time run up (less than 3 minutes))
+    ☐ Moves Laps (must finish in limited moves)
+    Special Tiles:
+        ☐ moves randomly by a given duration
+        ☐ Chainging tile
+    ☐ cursor on hover
+
+Must Have:
+    APP:
+        ☐ Hive caching and data storing
+        ☐ save user games (time spent, moves, pegs left)
+        ☐ save current game @low 
+        ☐ glassmorphism desing
+        ☐ use just_audio for audio playing (on peg selected, on peg jumped)
+        ☐ add on screen slide acts as Keyboard on mobile
+
+    Animations:
+        ☐ starting the game from home page
+        ☐ Rive Animations
+        ☐ shimmer Animations
+        ☐ animated tutorials to show the gameplay and rules
+        ☐ animate number incrementation
+    
+    ☐ Keyboard inputs
+    ☐ Accissibility
+    ☐ Extract perfections from first live
+
+Now:
+    ✔ Make A black and White Design @done (2/11/2022, 3:21:05 PM)
+    ✔ Pick a Font for each Text @done (2/11/2022, 3:21:06 PM)
+    ✔ add click sounds @done (2/11/2022, 6:21:58 PM)
+    ☐ fix rive animations all over the app
+    ✔ make the app responsive @done (3/12/2022, 2:05:10 PM)
+    ☐ 
+    ☐ add animation to empty tile hover
+    ✔ add animation to correct tile transition @done (2/16/2022, 10:33:17 AM)
+    ✘ add animation to switch tile @cancelled (2/18/2022, 7:22:22 PM)
+    ✔ add background animation to success @done (2/16/2022, 11:29:12 AM)
+    ✔ add dash animation to success and correct placement @done (2/16/2022, 10:33:12 AM)
+    ✘ add theme @cancelled (2/18/2022, 7:22:27 PM)
+    ✘ cursor interaction @cancelled (3/12/2022, 2:05:22 PM)
+    ✘ change app color to animation colors @cancelled (3/12/2022, 2:05:27 PM)
+    ☐ add dialogs 
+
+
+final touches:
+    
+    ✔ add timer start sound @done (3/12/2022, 2:21:32 PM)
+    ✔ Rp-pick image on advanced screen @done (3/12/2022, 2:25:09 PM)
+    ✔ add firebase best score, name, time, moves @done (3/14/2022, 11:58:56 AM)
+    ✔ Refine rive animations @done (3/12/2022, 7:38:01 PM)
+    ✔ add instructions dialog: @done (3/13/2022, 10:16:34 AM)
+        ✔ quick explanation @done (3/13/2022, 9:55:40 AM)
+        ✔ solve @done (3/13/2022, 10:16:23 AM)
+        ✔ switch @done (3/13/2022, 10:16:24 AM)
+        ✘ puzzle size @cancelled (3/13/2022, 10:16:26 AM)
+        ✘ puzzle type @cancelled (3/13/2022, 10:16:29 AM)
+        ✘ score @cancelled (3/13/2022, 10:16:30 AM)
+        ✘ time @cancelled (3/13/2022, 10:16:30 AM)
+        ✘ moves @cancelled (3/13/2022, 10:16:31 AM)
+    ✔ game reset dialog @done (3/12/2022, 2:59:35 PM)
+    ✔ game end dialog @done (3/14/2022, 11:58:58 AM)
+    ✘ add reveal empty tile image on game ended @cancelled (3/13/2022, 9:39:49 AM)
+    ✔ on restart set empty tile back the very right bottom @done (3/12/2022, 8:09:01 PM)
+    ☐ ignore solved games in score calculation
+    ✔ puzzle must be solvable @done (3/14/2022, 9:20:59 AM)
+    ☐ write the project description
+    ☐ fix solve button
+    ☐ make a video about the puzzle
+    ☐ deployment
+    ☐ submit:
+        ☐ 3 min video upload to youtube
+        ☐ web app hosting with firebase
+        ☐ mobile apk to drive
+        ☐ mobile app bundle to drive
+    
