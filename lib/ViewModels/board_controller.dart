@@ -185,7 +185,8 @@ class BoardController extends ChangeNotifier {
       tilesMoveAnimationDuration = Duration(milliseconds: 600);
       busy = true;
 
-      FilePickerResult? result = await FilePicker.platform.pickFiles();
+      FilePickerResult? result =
+          await FilePicker.platform.pickFiles(type: FileType.image);
 
       if (result != null) {
         File file = File(result.files.single.path!);
